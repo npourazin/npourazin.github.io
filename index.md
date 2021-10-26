@@ -1,5 +1,6 @@
 ## Welcome to My Github Page!
 
+Hello! I am Niki Pourazin. I study CE@AUT!
 
 <!-- 
 You can use the [editor on GitHub](https://github.com/npourazin/My-GitHub-Homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
